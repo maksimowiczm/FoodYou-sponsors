@@ -1,0 +1,22 @@
+[
+    {
+        "id": 11,
+        "sponsor": "loomweaver",
+        "message": null,
+        "amount": "7",
+        "currency": "EUR",
+        "inEuro": "7",
+        "sponsorshipDate": "2025-08-14T00:00:00Z",
+        "method": "Ko-fi"
+    },
+    {
+        "id": 10,
+        "sponsor": "Savely Krasovsky",
+        "message": "Thanks for the excellent app, much better than OpenNutriTracker! ",
+        "amount": "10",
+        "currency": "EUR",
+        "inEuro": "10",
+        "sponsorshipDate": "2025-08-04T00:00:00Z",
+        "method": "Ko-fi"
+    }
+]

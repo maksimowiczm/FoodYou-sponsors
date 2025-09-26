@@ -1,0 +1,42 @@
+[
+    {
+        "id": 4,
+        "sponsor": "rmndsgnznsks",
+        "message": null,
+        "amount": "3",
+        "currency": "EUR",
+        "inEuro": "3",
+        "sponsorshipDate": "2025-06-25T09:28:00Z",
+        "method": "Ko-fi"
+    },
+    {
+        "id": 5,
+        "sponsor": null,
+        "message": null,
+        "amount": "0.0004836",
+        "currency": "BTC",
+        "inEuro": "43.4",
+        "sponsorshipDate": "2025-06-21T19:37:00Z",
+        "method": "Crypto"
+    },
+    {
+        "id": 3,
+        "sponsor": "loomweaver",
+        "message": null,
+        "amount": "7",
+        "currency": "EUR",
+        "inEuro": "7",
+        "sponsorshipDate": "2025-06-21T07:45:00Z",
+        "method": "Ko-fi"
+    },
+    {
+        "id": 2,
+        "sponsor": "cmlimm",
+        "message": "I love how clean and minimal the app is. It really is a joy to use.",
+        "amount": "3",
+        "currency": "EUR",
+        "inEuro": "3",
+        "sponsorshipDate": "2025-06-13T22:34:00Z",
+        "method": "Ko-fi"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "id": 8,
+        "sponsor": "Somebody",
+        "message": null,
+        "amount": "6",
+        "currency": "EUR",
+        "inEuro": "6",
+        "sponsorshipDate": "2025-07-20T15:59:36Z",
+        "method": "Ko-fi"
+    },
+    {
+        "id": 9,
+        "sponsor": "Martin Best",
+        "message": "I'm happy to be a sponsor for the Food You app. Thank you for developing such a useful open source project that supports a healthy lifestyle!",
+        "amount": "174.32",
+        "currency": "PLN",
+        "inEuro": "40.96",
+        "sponsorshipDate": "2025-07-17T00:00:00Z",
+        "method": "PayPal"
+    },
+    {
+        "id": 7,
+        "sponsor": "andy",
+        "message": "Thanks! <3",
+        "amount": "15",
+        "currency": "EUR",
+        "inEuro": "15",
+        "sponsorshipDate": "2025-07-13T08:09:18Z",
+        "method": "Ko-fi"
+    },
+    {
+        "id": 6,
+        "sponsor": "Zarkorix",
+        "message": "Awesome app, looking forward to seeing where it goes next!",
+        "amount": "6",
+        "currency": "EUR",
+        "inEuro": "6",
+        "sponsorshipDate": "2025-07-05T06:51:00Z",
+        "method": "Ko-fi"
+    }
+]

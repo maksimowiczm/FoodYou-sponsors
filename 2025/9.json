@@ -1,0 +1,62 @@
+[
+    {
+        "id": 17,
+        "sponsor": "Hugo",
+        "message": "Lost 5kg in 2 months using Food You and now have a much better understanding of my nutritional intake and needs. Keep up the good work!",
+        "amount": "30",
+        "currency": "EUR",
+        "inEuro": "30",
+        "sponsorshipDate": "2025-09-22T09:59:27.328320Z",
+        "method": "Ko-fi"
+    },
+    {
+        "id": 16,
+        "sponsor": "WarmSkies",
+        "message": "The app is simple and has great flow. Picked it from all the others and will recommend it to others. The app is a example of why FOSS is awesome. Will try to tip from time to time when the app keeps amaizing me!",
+        "amount": "3",
+        "currency": "EUR",
+        "inEuro": "3",
+        "sponsorshipDate": "2025-09-18T07:14:18.670079Z",
+        "method": "Ko-fi"
+    },
+    {
+        "id": 15,
+        "sponsor": "loomweaver",
+        "message": null,
+        "amount": "7",
+        "currency": "EUR",
+        "inEuro": "7",
+        "sponsorshipDate": "2025-09-17T08:06:31.273905Z",
+        "method": "Ko-fi"
+    },
+    {
+        "id": 14,
+        "sponsor": "NowHealthyEater",
+        "message": "Was looking for a FOSS alternative to cronometer, and this is just fantastic! Clean and nice design, recent DB search addition improved it so much! Tried other similar app, but foodYou is the best out there hands down! Thank you Mateusz!",
+        "amount": "6",
+        "currency": "EUR",
+        "inEuro": "6",
+        "sponsorshipDate": "2025-09-15T07:48:00.364362Z",
+        "method": "Ko-fi"
+    },
+    {
+        "id": 13,
+        "sponsor": "ardrift",
+        "message": "It's really inspiring to see a so well-constructed app that is both FOSS and privacy-respecting. The fact that its purpose is helping people be concious of their eating habits and by that helping them to stay healthy, is a cherry on top. Keep up the great work!",
+        "amount": "6",
+        "currency": "EUR",
+        "inEuro": "6",
+        "sponsorshipDate": "2025-09-09T16:04:24.089212Z",
+        "method": "Ko-fi"
+    },
+    {
+        "id": 12,
+        "sponsor": "CJ",
+        "message": "Great work! Enables me to stay healthy without getting my eating habits sold to advertisers. Love this app.",
+        "amount": "43",
+        "currency": "EUR",
+        "inEuro": "43",
+        "sponsorshipDate": "2025-09-09T00:00:00Z",
+        "method": "Ko-fi"
+    }
+]

@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "id": 18,
+        "sponsor": "Supporter",
+        "message": "App is beautiful and functional, a rare combo. Please keep it up!",
+        "amount": "5",
+        "currency": "EUR",
+        "inEuro": "5",
+        "sponsorshipDate": "2025-10-07T16:22:52.048Z",
+        "method": "Ko-fi"
+    }
+]

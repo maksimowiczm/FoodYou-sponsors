@@ -18,5 +18,15 @@
         "inEuro": "4",
         "sponsorshipDate": "2025-10-09T13:38:14Z",
         "method": "Ko-fi"
+    },
+    {
+        "id": 20,
+        "sponsor": "Kurti",
+        "message": "Love the app. Some AI features (bring your own Key) and/or OCR for nutrition table readout would just make this top notch for me.",
+        "amount": "10",
+        "currency": "EUR",
+        "inEuro": "10",
+        "sponsorshipDate": "2025-10-10T20:09:51Z",
+        "method": "Ko-fi"
     }
 ]

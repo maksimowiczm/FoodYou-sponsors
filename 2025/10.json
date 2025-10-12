@@ -28,5 +28,15 @@
         "inEuro": "10",
         "sponsorshipDate": "2025-10-10T20:09:51Z",
         "method": "Ko-fi"
+    },
+    {
+        "id": 21,
+        "sponsor": "Juke",
+        "message": "Thank you for fixing the search feature! The app is so much easier to use now.",
+        "amount": "5",
+        "currency": "EUR",
+        "inEuro": "5",
+        "sponsorshipDate": "2025-10-11T14:18:09Z",
+        "method": "Ko-fi"
     }
 ]

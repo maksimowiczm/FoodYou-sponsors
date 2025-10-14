@@ -38,5 +38,15 @@
         "inEuro": "5",
         "sponsorshipDate": "2025-10-11T14:18:09Z",
         "method": "Ko-fi"
+    },
+    {
+        "id": 22,
+        "sponsor": "loomweaver",
+        "message": null,
+        "amount": "7",
+        "currency": "EUR",
+        "inEuro": "7",
+        "sponsorshipDate": "2025-10-14T16:28:56Z",
+        "method": "Ko-fi"
     }
 ]

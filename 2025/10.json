@@ -48,5 +48,15 @@
         "inEuro": "7",
         "sponsorshipDate": "2025-10-14T16:28:56Z",
         "method": "Ko-fi"
+    },
+    {
+        "id": 23,
+        "sponsor": "Hroth",
+        "message": "Thank you!",
+        "amount": "6",
+        "currency": "EUR",
+        "inEuro": "6",
+        "sponsorshipDate": "2025-10-23T09:08:13Z",
+        "method": "Ko-fi"
     }
 ]

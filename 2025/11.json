@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "id": 25,
+        "sponsor": "Supporter",
+        "message": null,
+        "amount": "5",
+        "currency": "EUR",
+        "inEuro": "5",
+        "sponsorshipDate": "2025-11-06T16:22:52.048Z",
+        "method": "Ko-fi"
+    }
+]

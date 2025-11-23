@@ -8,5 +8,15 @@
         "inEuro": "5",
         "sponsorshipDate": "2025-11-06T16:22:52.048Z",
         "method": "Ko-fi"
+    },
+    {
+        "id": 26,
+        "sponsor": "Somebody",
+        "message": null,
+        "amount": "10",
+        "currency": "EUR",
+        "inEuro": "10",
+        "sponsorshipDate": "2025-11-23T10:10:08.529Z",
+        "method": "Ko-fi"
     }
 ]

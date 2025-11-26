@@ -18,5 +18,15 @@
         "inEuro": "10",
         "sponsorshipDate": "2025-11-23T10:10:08.529Z",
         "method": "Ko-fi"
+    },
+    {
+        "id": 27,
+        "sponsor": null,
+        "message": null,
+        "amount": "0.01",
+        "currency": "XMR",
+        "inEuro": "3.45",
+        "sponsorshipDate": "2025-11-23T15:43:00.000Z",
+        "method": "Crypto"
     }
 ]

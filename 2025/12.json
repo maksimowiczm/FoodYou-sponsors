@@ -28,5 +28,15 @@
         "inEuro": "5",
         "sponsorshipDate": "2025-12-08T12:00:00.000Z",
         "method": "Ko-fi"
+    },
+        {
+        "id": 31,
+        "sponsor": null,
+        "message": null,
+        "amount": "0.0001466",
+        "currency": "BTC",
+        "inEuro": "10.93",
+        "sponsorshipDate": "2025-06-25T03:09:52Z",
+        "method": "Crypto"
     }
 ]

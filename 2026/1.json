@@ -1,0 +1,12 @@
+[
+    {
+        "id": 32,
+        "sponsor": "alexn",
+        "message": "Thank you for the app",
+        "amount": "10",
+        "currency": "EUR",
+        "inEuro": "10",
+        "sponsorshipDate": "2026-01-02T11:18:00Z",
+        "method": "Ko-fi"
+    }
+]

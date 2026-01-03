@@ -8,5 +8,35 @@
         "inEuro": "10",
         "sponsorshipDate": "2026-01-02T11:18:00Z",
         "method": "Ko-fi"
+    },
+    {
+        "id": 33,
+        "sponsor": null,
+        "message": null,
+        "amount": "0.008381",
+        "currency": "XMR",
+        "inEuro": "2.99",
+        "sponsorshipDate": "2026-01-01T18:11:56Z",
+        "method": "Crypto"
+    },
+    {
+        "id": 34,
+        "sponsor": "VampireBob",
+        "message": "I rarely find well made, simple, effective and privacy respecting apps these days. Thank you 👍",
+        "amount": "12",
+        "currency": "EUR",
+        "inEuro": "12",
+        "sponsorshipDate": "2026-01-03T11:41:00Z",
+        "method": "Ko-fi"
+    },
+    {
+        "id": 35,
+        "sponsor": null",
+        "message": null,
+        "amount": "5",
+        "currency": "EUR",
+        "inEuro": "5",
+        "sponsorshipDate": "2026-01-03T12:08:00Z",
+        "method": "Ko-fi"
     }
 ]

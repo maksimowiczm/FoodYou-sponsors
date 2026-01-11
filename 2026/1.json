@@ -48,5 +48,15 @@
         "inEuro": "5",
         "sponsorshipDate": "2026-01-06T12:00:00.000Z",
         "method": "Ko-fi"
+    },
+    {
+        "id": 37,
+        "sponsor": "Serge",
+        "message": "I haven't found any other app that allow per 100g nutrients and calorie input, let alone being fully offline and free. This app is a treasure. Functionally and aesthetically just the way I would make it. Thanks!",
+        "amount": "6",
+        "currency": "EUR",
+        "inEuro": "6",
+        "sponsorshipDate": "2026-01-11T12:00:00.000Z",
+        "method": "Ko-fi"
     }
 ]

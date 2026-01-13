@@ -68,5 +68,15 @@
         "inEuro": "3",
         "sponsorshipDate": "2026-01-12T12:00:00.000Z",
         "method": "Ko-fi"
+    },
+    {
+        "id": 39,
+        "sponsor": null,
+        "message": "it's insane how it's not only private and doesn't have useless stuff, but it's also just better than all of popular mainstream apps, thanks a lot",
+        "amount": "3",
+        "currency": "EUR",
+        "inEuro": "3",
+        "sponsorshipDate": "2026-01-12T13:00:00.000Z",
+        "method": "Ko-fi"
     }
 ]

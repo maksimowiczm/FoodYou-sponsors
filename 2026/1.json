@@ -78,5 +78,15 @@
         "inEuro": "3",
         "sponsorshipDate": "2026-01-12T13:00:00.000Z",
         "method": "Ko-fi"
+    },
+    {
+        "id": 40,
+        "sponsor": "Frank",
+        "message": "This app is phenomenal! I'd love to be able to star or favorite my go to recipes so they always show up at the top of recent.",
+        "amount": "21",
+        "currency": "EUR",
+        "inEuro": "21",
+        "sponsorshipDate": "2026-01-19T12:00:00.000Z",
+        "method": "Ko-fi"
     }
 ]

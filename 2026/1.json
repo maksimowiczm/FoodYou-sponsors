@@ -88,5 +88,15 @@
         "inEuro": "21",
         "sponsorshipDate": "2026-01-19T12:00:00.000Z",
         "method": "Ko-fi"
+    },
+    {
+        "id": 41,
+        "sponsor": "LucDogWalker",
+        "message": "Thank you for the support 🙏❤️",
+        "amount": "3",
+        "currency": "EUR",
+        "inEuro": "3",
+        "sponsorshipDate": "2026-01-27T12:00:00.000Z",
+        "method": "Ko-fi"
     }
 ]

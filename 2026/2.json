@@ -18,5 +18,15 @@
         "inEuro": "5",
         "sponsorshipDate": "2026-02-06T12:00:00.000Z",
         "method": "Ko-fi"
+    },
+    {
+        "id": 46,
+        "sponsor": "Luca Foglieni",
+        "message": "Fantastica App",
+        "amount": "5",
+        "currency": "EUR",
+        "inEuro": "5",
+        "sponsorshipDate": "2026-02-09T12:00:00.000Z",
+        "method": "Ko-fi"
     }
 ]

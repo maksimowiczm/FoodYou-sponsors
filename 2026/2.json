@@ -78,5 +78,15 @@
         "inEuro": "25",
         "sponsorshipDate": "2026-02-22T12:00:00.000Z",
         "method": "Ko-fi"
+    },
+    {
+        "id": 52,
+        "sponsor": "jim",
+        "message": "What a perfect calorie tracker! Thank you very much. I used cronometer which was fine, but now I can do almost the same with an easy, fast and clean interface and keeping my data private!! Awesome app!",
+        "amount": "10",
+        "currency": "EUR",
+        "inEuro": "10",
+        "sponsorshipDate": "2026-02-22T13:00:00.000Z",
+        "method": "Ko-fi"
     }
 ]

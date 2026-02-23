@@ -93,9 +93,9 @@
         "id": 53,
         "sponsor": "Astrid Gardner",
         "message": null,
-        "amount": "10",
+        "amount": "15",
         "currency": "EUR",
-        "inEuro": "10",
+        "inEuro": "15",
         "sponsorshipDate": "2026-02-23T12:00:00.000Z",
         "method": "Ko-fi"
     }

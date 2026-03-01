@@ -41,7 +41,7 @@
     },
     {
         "id": 36,
-        "sponsor": "Somebody",
+        "sponsor": null,
         "message": null,
         "amount": "5",
         "currency": "EUR",

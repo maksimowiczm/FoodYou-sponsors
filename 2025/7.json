@@ -1,7 +1,7 @@
 [
     {
         "id": 8,
-        "sponsor": "Somebody",
+        "sponsor": null,
         "message": null,
         "amount": "6",
         "currency": "EUR",

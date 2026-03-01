@@ -1,7 +1,7 @@
 [
     {
         "id": 28,
-        "sponsor": "Somebody",
+        "sponsor": null,
         "message": null,
         "amount": "8",
         "currency": "EUR",
@@ -11,7 +11,7 @@
     },
     {
         "id": 29,
-        "sponsor": "Somebody",
+        "sponsor": null,
         "message": null,
         "amount": "5",
         "currency": "EUR",
@@ -21,7 +21,7 @@
     },
     {
         "id": 30,
-        "sponsor": "Somebody",
+        "sponsor": null,
         "message": "Thank you for this great app 🙂",
         "amount": "10",
         "currency": "EUR",

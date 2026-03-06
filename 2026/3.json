@@ -8,5 +8,15 @@
         "inEuro": "8.57",
         "sponsorshipDate": "2026-03-05T00:56:29Z",
         "method": "Crypto"
+    },
+    {
+        "id": 2026030002,
+        "sponsor": null,
+        "message": null,
+        "amount": "5.00",
+        "currency": "EUR",
+        "inEuro": "5.00",
+        "sponsorshipDate": "2026-03-06T19:29:57Z",
+        "method": "Ko-fi"
     }
 ]

@@ -14,6 +14,13 @@ jobs:
     steps:
       - uses: actions/configure-pages@v5
       - uses: actions/checkout@v5
+      - name: Sign v2 JSON files
+        env:
+          SIGNING_KEY: ${{ secrets.SIGNING_KEY }}
+        run: |
+          for json in static-api/v2/*.json; do
+            bash sign-json.sh "$json" <(echo "$SIGNING_KEY")
+          done
       - uses: actions/upload-pages-artifact@v4
         with:
           path: "./static-api"

@@ -19,6 +19,6 @@ jobs:
       - uses: actions/checkout@v5
       - uses: actions/upload-pages-artifact@v4
         with:
-          path: "."
+          path: "./static-api"
       - uses: actions/deploy-pages@v4
         id: deployment

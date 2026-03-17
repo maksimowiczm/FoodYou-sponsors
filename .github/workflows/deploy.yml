@@ -19,7 +19,7 @@ jobs:
           SIGNING_KEY: ${{ secrets.SIGNING_KEY }}
         run: |
           for json in static-api/v2/*.json; do
-            bash sign-json.sh "$json" <(echo "$SIGNING_KEY")
+            just sign "$json" <(printf '%s' "$SIGNING_KEY")
           done
       - uses: actions/upload-pages-artifact@v4
         with:

@@ -1,3 +1,5 @@
+set shell := ["bash", "-uc"]
+
 required_cmds := "jq openssl base64"
 
 default:

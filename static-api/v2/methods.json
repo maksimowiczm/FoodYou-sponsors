@@ -14,9 +14,8 @@
         },
         {
             "name": "Monero",
-            "icon": "v2/assets/monero.png",
+            "icon": "/v2/assets/monero.png",
             "address": "41eXqs6zg8PFQ8Fec3iyYcVA3rFHc7wgj9hLRuiVh2FtbE2q2TGoCbhSmVX5R76SmYPpSM2VR7qmD4SQ4YMZCEFK6DGGWfB"
         }
-    ],
-    "timestamp": "2026-03-16T19:30:21.692Z"
+    ]
 }

@@ -18,5 +18,15 @@
         "inEuro": "5",
         "sponsorshipDate": "2026-03-06T19:29:57Z",
         "method": "Ko-fi"
+    },
+    {
+        "id": 2026030003,
+        "sponsor": "Boomerang",
+        "message": "Great app. Keep up the great work!",
+        "amount": "10",
+        "currency": "EUR",
+        "inEuro": "10",
+        "sponsorshipDate": "2026-03-18T15:03:14Z",
+        "method": "Ko-fi"
     }
 ]

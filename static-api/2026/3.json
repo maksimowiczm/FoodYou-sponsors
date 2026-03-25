@@ -28,5 +28,15 @@
         "inEuro": "10",
         "sponsorshipDate": "2026-03-18T15:03:14Z",
         "method": "Ko-fi"
+    },
+    {
+        "id": 2026030005,
+        "sponsor": "Checo",
+        "message": "This is how apps should be! Improving lives adding value and not being enshittified.",
+        "amount": "6",
+        "currency": "EUR",
+        "inEuro": "6",
+        "sponsorshipDate": "2026-03-25T10:56:30Z",
+        "method": "Ko-fi"
     }
 ]

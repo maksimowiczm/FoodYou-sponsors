@@ -58,5 +58,25 @@
         "inEuro": "20",
         "sponsorshipDate": "2026-03-27T06:07:24Z",
         "method": "Ko-fi"
+    },
+    {
+        "id": 2026030008,
+        "sponsor": "Konstantinos Kilmetis",
+        "message": "Love the app and what it stands for. Go FOSS!",
+        "amount": "10",
+        "currency": "EUR",
+        "inEuro": "10",
+        "sponsorshipDate": "2026-03-27T12:59:47Z",
+        "method": "Ko-fi"
+    },
+    {
+        "id": 2026030009,
+        "sponsor": null,
+        "message": "Love the app and its design, thank you for your work!",
+        "amount": "15",
+        "currency": "EUR",
+        "inEuro": "15",
+        "sponsorshipDate": "2026-03-27T14:30:46Z",
+        "method": "Ko-fi"
     }
 ]

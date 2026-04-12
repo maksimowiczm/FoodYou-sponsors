@@ -18,5 +18,15 @@
         "inEuro": "5",
         "sponsorshipDate": "2026-04-06T18:50:35Z",
         "method": "Ko-fi"
+    },
+    {
+        "id": 2026040003,
+        "sponsor": "Sean From Ireland",
+        "message": "Excellent app well done, I'm very happy with it. If I could make one feature request it's that for the custom recipes I'd like to be able to specify the macros myself without needing to add an off the shelf item. I've already lost some weight with your help, thank you so much.",
+        "amount": "3",
+        "currency": "EUR",
+        "inEuro": "3",
+        "sponsorshipDate": "2026-04-11T11:56:12Z",
+        "method": "Ko-fi"
     }
 ]

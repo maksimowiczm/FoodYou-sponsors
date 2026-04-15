@@ -28,5 +28,15 @@
         "inEuro": "3",
         "sponsorshipDate": "2026-04-11T11:56:12Z",
         "method": "Ko-fi"
+    },
+    {
+        "id": 2026040004,
+        "sponsor": "Gerick",
+        "message": "Thank you for making such a good app!",
+        "amount": "5",
+        "currency": "EUR",
+        "inEuro": "5",
+        "sponsorshipDate": "2026-04-15T03:02:10Z",
+        "method": "Ko-fi"
     }
 ]

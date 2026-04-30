@@ -38,5 +38,15 @@
         "inEuro": "5",
         "sponsorshipDate": "2026-04-15T03:02:10Z",
         "method": "Ko-fi"
+    },
+    {
+        "id": 2026040005,
+        "sponsor": "Matija",
+        "message": "Since my other free app went premium, i came here still finding my way in the app but first imression is good.",
+        "amount": "6",
+        "currency": "EUR",
+        "inEuro": "6",
+        "sponsorshipDate": "2026-04-30T14:41:26Z",
+        "method": "Ko-fi"
     }
 ]

@@ -48,5 +48,15 @@
         "inEuro": "6",
         "sponsorshipDate": "2026-04-30T14:41:26Z",
         "method": "Ko-fi"
+    },
+    {
+        "id": 2026040006,
+        "sponsor": "Rainer",
+        "message": "Sehr gute App, gefällt mir.",
+        "amount": "3",
+        "currency": "EUR",
+        "inEuro": "3",
+        "sponsorshipDate": "2026-04-30T21:48:53Z",
+        "method": "Ko-fi"
     }
 ]

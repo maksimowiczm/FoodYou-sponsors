@@ -28,5 +28,15 @@
         "inEuro": "5",
         "sponsorshipDate": "2026-05-06T18:42:34Z",
         "method": "Ko-fi"
+    },
+    {
+        "id": 2026050004,
+        "sponsor": "ozzy",
+        "message": "Love the app. Thanks for the work on it! UI is fantastic.",
+        "amount": "10",
+        "currency": "EUR",
+        "inEuro": "10",
+        "sponsorshipDate": "2026-05-21T13:22:16Z",
+        "method": "Ko-fi"
     }
 ]

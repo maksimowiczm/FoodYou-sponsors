@@ -38,5 +38,15 @@
         "inEuro": "10",
         "sponsorshipDate": "2026-05-21T13:22:16Z",
         "method": "Ko-fi"
+    },
+    {
+        "id": 2026050005,
+        "sponsor": "Bananicorn",
+        "message": "An absolute joy to use, thank you!",
+        "amount": "20",
+        "currency": "EUR",
+        "inEuro": "20",
+        "sponsorshipDate": "2026-05-23T15:17:56Z",
+        "method": "Ko-fi"
     }
 ]

@@ -48,5 +48,15 @@
         "inEuro": "20",
         "sponsorshipDate": "2026-05-23T15:17:56Z",
         "method": "Ko-fi"
+    },
+    {
+        "id": 2026050006,
+        "sponsor": "Koix",
+        "message": "Dzięki za bombową aplikacje. Używać będę tak czy siak, ale jak miałbym mięć życzenia, to żeby móc \"pakować\" produkty w przepisy (analogicznie do rozpakowania), i móc wpisać własne gramatury składników w istniejących przepisach. Wielki szef z ciebie za open-source, smacznej kawusi",
+        "amount": "9",
+        "currency": "EUR",
+        "inEuro": "9",
+        "sponsorshipDate": "2026-05-24T13:28:51Z",
+        "method": "Ko-fi"
     }
 ]

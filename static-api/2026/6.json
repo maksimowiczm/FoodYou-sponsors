@@ -8,5 +8,15 @@
         "inEuro": "10",
         "sponsorshipDate": "2026-06-03T12:44:26Z",
         "method": "Ko-fi"
+    },
+    {
+        "id": 2026060002,
+        "sponsor": "Lux",
+        "message": null,
+        "amount": "10",
+        "currency": "EUR",
+        "inEuro": "10",
+        "sponsorshipDate": "2026-06-05T15:36:32Z",
+        "method": "Ko-fi"
     }
 ]

@@ -18,5 +18,15 @@
         "inEuro": "10",
         "sponsorshipDate": "2026-06-05T15:36:32Z",
         "method": "Ko-fi"
+    },
+    {
+        "id": 2026060003,
+        "sponsor": "Wazza",
+        "message": "A joy to use.",
+        "amount": "10",
+        "currency": "EUR",
+        "inEuro": "10",
+        "sponsorshipDate": "2026-06-06T11:53:01Z",
+        "method": "Ko-fi"
     }
 ]

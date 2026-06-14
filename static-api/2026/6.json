@@ -38,5 +38,15 @@
         "inEuro": "5",
         "sponsorshipDate": "2026-06-06T18:42:50Z",
         "method": "Ko-fi"
+    },
+    {
+        "id": 2026060005,
+        "sponsor": "Jon",
+        "message": "Thank you for your work. Been using Food You for 5 months now and learnt a lot about my food.",
+        "amount": "15",
+        "currency": "EUR",
+        "inEuro": "15",
+        "sponsorshipDate": "2026-06-14T07:09:38Z",
+        "method": "Ko-fi"
     }
 ]

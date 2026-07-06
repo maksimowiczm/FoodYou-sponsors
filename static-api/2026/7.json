@@ -28,5 +28,15 @@
         "inEuro": "5",
         "sponsorshipDate": "2026-07-06T18:56:19Z",
         "method": "Ko-fi"
+    },
+    {
+        "id": 2026070004,
+        "sponsor": "Mika",
+        "message": "Nice App 👍",
+        "amount": "6",
+        "currency": "EUR",
+        "inEuro": "6",
+        "sponsorshipDate": "2026-07-06T22:09:15Z",
+        "method": "Ko-fi"
     }
 ]

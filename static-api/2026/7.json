@@ -32,11 +32,21 @@
     {
         "id": 2026070004,
         "sponsor": "Mika",
-        "message": "Nice App 👍",
+        "message": "Nice App ð",
         "amount": "6",
         "currency": "EUR",
         "inEuro": "6",
         "sponsorshipDate": "2026-07-06T22:09:15Z",
+        "method": "Ko-fi"
+    },
+    {
+        "id": 2026070005,
+        "sponsor": "kate",
+        "message": "Sick app",
+        "amount": "5",
+        "currency": "EUR",
+        "inEuro": "5",
+        "sponsorshipDate": "2026-07-07T08:27:12Z",
         "method": "Ko-fi"
     }
 ]

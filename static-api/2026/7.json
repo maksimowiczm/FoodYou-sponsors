@@ -32,7 +32,7 @@
     {
         "id": 2026070004,
         "sponsor": "Mika",
-        "message": "Nice App ð",
+        "message": "Nice App 👍",
         "amount": "6",
         "currency": "EUR",
         "inEuro": "6",
@@ -51,7 +51,7 @@
     },
     {
         "id": 2026070006,
-        "sponsor": "Somebody",
+        "sponsor": null,
         "message": null,
         "amount": "100",
         "currency": "EUR",

@@ -18,5 +18,15 @@
         "inEuro": "5",
         "sponsorshipDate": "2026-08-06T19:05:35Z",
         "method": "Ko-fi"
+    },
+    {
+        "id": 2026080003,
+        "sponsor": "R",
+        "message": "Thank you for making something to fill the void LoseIt left when they sloppified",
+        "amount": "5",
+        "currency": "EUR",
+        "inEuro": "5",
+        "sponsorshipDate": "2026-08-06T22:55:01Z",
+        "method": "Ko-fi"
     }
 ]

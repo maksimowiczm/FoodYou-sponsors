@@ -38,5 +38,15 @@
         "inEuro": "5",
         "sponsorshipDate": "2026-08-10T20:50:48Z",
         "method": "Ko-fi"
+    },
+    {
+        "id": 2026080005,
+        "sponsor": "Israel",
+        "message": "Thx mate 🙂",
+        "amount": "5",
+        "currency": "EUR",
+        "inEuro": "5",
+        "sponsorshipDate": "2026-08-11T11:16:49Z",
+        "method": "Ko-fi"
     }
 ]

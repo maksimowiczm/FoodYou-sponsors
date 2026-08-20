@@ -58,5 +58,15 @@
         "inEuro": "5",
         "sponsorshipDate": "2026-08-18T20:22:25Z",
         "method": "Ko-fi"
+    },
+    {
+        "id": 2026080007,
+        "sponsor": "Jochen",
+        "message": "Great app",
+        "amount": "5",
+        "currency": "EUR",
+        "inEuro": "5",
+        "sponsorshipDate": "2026-08-20T20:56:10Z",
+        "method": "Ko-fi"
     }
 ]

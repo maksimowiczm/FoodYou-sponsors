@@ -28,5 +28,15 @@
         "inEuro": "10",
         "sponsorshipDate": "2026-10-10T15:15:46Z",
         "method": "Ko-fi"
+    },
+    {
+        "id": 2026100004,
+        "sponsor": "Elisa",
+        "message": "Thank you. I use your app everyday and I love it. Best nutrition app on the internet.",
+        "amount": "10",
+        "currency": "EUR",
+        "inEuro": "10",
+        "sponsorshipDate": "2026-10-12T16:16:12Z",
+        "method": "Ko-fi"
     }
 ]
